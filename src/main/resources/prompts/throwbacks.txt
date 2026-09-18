@@ -1,0 +1,5 @@
+Generate a nostalgic Arizona Wildcats throwback tweet.
+Reference {player}, {year}, or {moment}.
+Tone should be proud and emotional.
+Keep it under 25 words.
+Optionally include a short stat or detail.

@@ -1,0 +1,6 @@
+Generate a high‑energy Arizona Wildcats game‑day hype tweet.
+Tone should be loud, confident, and emotional.
+Reference the opponent using {opponent}.
+Keep it under 25 words.
+Include Wildcats pride and competitive fire.
+No analysis — pure hype.

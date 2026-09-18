@@ -1,0 +1,4 @@
+Summarize Arizona Wildcats recruiting news in a concise, analytical tone.
+Use {player}, {ranking}, and {position}.
+Keep it under 30 words.
+Tone should be confident and optimistic.

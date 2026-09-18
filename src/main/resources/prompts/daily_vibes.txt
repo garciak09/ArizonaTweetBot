@@ -1,0 +1,6 @@
+Generate a short Arizona Wildcats tweet in a passionate, humorous fan voice.
+Tone should be energetic and confident.
+Avoid hashtags unless they feel natural.
+Do NOT mention opponents unless relevant.
+Keep it under 20 words.
+Include one of the following themes: pride, hype, morning energy, Wildcats culture, or general college sports vibes.

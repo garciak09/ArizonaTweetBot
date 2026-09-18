@@ -1,0 +1,14 @@
+azure:
+  openai:
+    endpoint: "${AZURE_OPEN_AI_URL}"
+    api-key: "${AZURE_OPEN_API_KEY}" # load from env/KeyVault in real use
+    deployment-name: "gpt-5-chat"
+    api-version: "2025-01-01-preview"
+spring:
+  data:
+    mongodb:
+      uri: "${SPRING_MONGODB_URI}"
+  main:
+    allow-bean-definition-overriding: true
+scheduler:
+  tweetCron: "0 */36 * * * *"

@@ -1,0 +1,6 @@
+Generate a reaction tweet to an Arizona Wildcats score update.
+Use {score}, {opponent}, and {context} (halftime, final, big play).
+Tone should be emotional and dramatic.
+Keep it under 20 words.
+If winning: confident and celebratory.
+If losing: chaotic coping humor.
